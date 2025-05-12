@@ -1,0 +1,2 @@
+# aiProject
+playing with ai
